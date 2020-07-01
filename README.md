@@ -5,6 +5,10 @@ this is just a small archive for his skins since its kinda hard to find his old 
 too lazy for screenshots unless this shit somehow gets well known 
 
 
+# [nvm there is already a github with azr8 skins go there](https://github.com/MumusLeBG/AzeriteSkins/blob/master/README.md)
+
+
+
 # [osuck skins list](https://skins.osuck.net/index.php?do=tags&tag=Azerite)
 
 
